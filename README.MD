@@ -1,7 +1,7 @@
 This is the solution to the [QR Code Componenet by Frontend Mentor](https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd/steps/672232a65832c087f201012e/challenge/start)
 
 In this challenge I've to build out this QR code component and get it looking as close to the design as possible.
-![challange](./images/image-qr-code.png)
+![challange](./images/preview.jpg)
 
 # Built with
 
