@@ -1,0 +1,22 @@
+body{
+    background-color: skyblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.main-container{
+    background-color: white;
+    margin: auto;
+    padding: 15px;
+    border-radius: 15px;
+    text-align: center;
+    width: 380px;
+    font-family: sans-serif;
+}
+
+.img-section img{
+    width: 380px;
+    border-radius: 10px;
+}
